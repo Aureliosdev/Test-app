@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Call and Messages/Pods-Call and Messages-frameworks.sh
+${BUILT_PRODUCTS_DIR}/InputBarAccessoryView/InputBarAccessoryView.framework
+${BUILT_PRODUCTS_DIR}/MessageBox/MessageBox.framework
+${BUILT_PRODUCTS_DIR}/MessageKit/MessageKit.framework
